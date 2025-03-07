@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# other
+.idea/
+/*build*/
+.DS_STORE
